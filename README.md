@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Fazal 👋
 
-<!--
-**fazalilahi/fazalilahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Engineer skilled in Next.js, TypeScript, Node.js, and AWS.
+I love building fast and user-friendly web applications. 🚀
 
-Here are some ideas to get you started:
+### 📈 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Fazal's GitHub stats](https://github-readme-stats.vercel.app/api?username=fazalilahi&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fazalilahi&layout=compact&theme=dark)
+
+Thanks for stopping by! Feel free to star ⭐ any of my repos or drop a Hi! 👋
+
+🌐 Connect with Me
+- ✉️ Email: [fazalchemmengath@gmail.com](mailto:fazalchemmengath@gmail.com)
+- 💼 LinkedIn: [Linkedin](https://linkedin.com/in/fazalilahi)
