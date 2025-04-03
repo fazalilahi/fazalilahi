@@ -1,8 +1,8 @@
-## Hi, I'm Fazal 👋
+## Hi, I'm Fazal 👋🏻
 Yet another Frontend Engineer proficient in Next.js, TypeScript, Node.js, and AWS.
 I love building fast and user-friendly web applications. 🚀
 
-Thanks for stopping by! Feel free to star ⭐ any of my repos or drop a Hi! 👋 🌐
+Thanks for stopping by! Feel free to star ⭐ any of my repos or drop a Hi! 👋🏻 🌐
 - ✉️ Email: [fazalchemmengath@gmail.com](mailto:fazalchemmengath@gmail.com)
 - 💼 LinkedIn: [Linkedin](https://linkedin.com/in/fazalilahi)
 
