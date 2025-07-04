@@ -6,7 +6,7 @@ Thanks for stopping by! Feel free to star ⭐ any of my repos or drop a Hi! 👋
 - ✉️ Email: [fazalchemmengath@gmail.com](mailto:fazalchemmengath@gmail.com)
 - 💼 LinkedIn: [Linkedin](https://linkedin.com/in/fazalilahi)
 
-<a href="https://www.buymeacoffee.com/fazalilahi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="24"></a>
+<a href="https://www.buymeacoffee.com/fazalilahi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="28px"></a>
 
 
 
